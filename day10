@@ -1,5 +1,4 @@
-
-1.preorder,postorder,inorder.
+1. ino
 #include <stdio.h>
 #include<malloc.h>
 typedef struct node 
