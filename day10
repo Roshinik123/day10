@@ -1,3 +1,4 @@
+preorder,postorder,inorder,findheight,findmax;
 #include <stdio.h>
 #include<malloc.h>
 #define max(a,b) (a>b)?(a):(b)
